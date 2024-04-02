@@ -4,7 +4,7 @@ Time to create all of the component functions for each of the option groups. Jus
 
 ## Learning Objectives
 
-* You should be able to correct use **async** and **await** keywords to request data from an API.
+* You should be able to correctly use **async** and **await** keywords to request data from an API.
 * You should be able to use a `for..of` loop to generate HTML representations of each object in the array.
 * You should be able to import the component functions into the main module, invoke them in the correct place, and compose all of the responses into a single HTML string.
 * You should be able to update the correct element on the DOM with your generated HTML.
