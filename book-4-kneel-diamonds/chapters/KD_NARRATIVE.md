@@ -70,7 +70,7 @@ Luckily, you find that Natasha prices styles with a consistent pattern. Classic 
 
 ## User Experience
 
-The following animation shows how the layout of the application, and how the user can select options and then click a button to generate a custom jewelry order. As soon as the order is generated, it should immediately appear in the DOM without refreshing the browser.
+The following animation shows the layout of the application, and how the user can select options and then click a button to generate a custom jewelry order. As soon as the order is generated, it should immediately appear in the DOM without refreshing the browser.
 
 Up to this point, you've only handled "click" events. In this application, you will handle "change" events as well.
 
