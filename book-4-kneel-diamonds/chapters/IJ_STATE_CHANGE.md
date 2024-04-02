@@ -1,6 +1,6 @@
 # Automatically Loading Newly Created Submissions
 
-In this chapter, you are going to learn a new super-power. You will generate your own, custom event in the browser. Up to this point, you have listened for events like **click** and **change**, but you did not have broadcast, or dispatch, the event yourself. The browser does that part for you.
+In this chapter, you are going to learn a new super-power. You will generate your own, custom event in the browser. Up to this point, you have listened for events like **click** and **change**, but you did not have to broadcast, or dispatch, the event yourself. The browser does that part for you.
 
 Now you are going to handle both parts. You will dispatch the event that you create, and you will listen for it.
 
